@@ -12,9 +12,6 @@ it's me, einna 🌸<br><br>🌿 interested in books, food, movies, music, sketch
 ![](https://nirzak-streak-stats.vercel.app/?user=einnaa&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=einnaa&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=einnaa&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=einnaa&icon=9&color=5)](https://visitcount.itsvg.in)
 
