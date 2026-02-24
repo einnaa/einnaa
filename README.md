@@ -12,7 +12,7 @@ it's me, einna 🌸<br><br>🌿 interested in books, food, movies, music, sketch
 ![](https://nirzak-streak-stats.vercel.app/?user=einnaa&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=einnaa&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+---wawaawawawaw
 [![](https://visitcount.itsvg.in/api?id=einnaa&icon=9&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly creat  ed with GPRM ( https://gprm.itsvg.in ) -->
