@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is einna🍀 !
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is einna! 🍀🍄
 ==============================================================================================================================
 
-UI/UX Designer & Front-End Developer
+👩🏻‍💻 UI/UX Designer & Front-End Developer 🪷
 ------------------------------------
 
-🖌️ Interested in:
+🧐 Interested in:
 
 User Interface Design | Front-End Development | Books | Art | Movies | Music | Writing
 
