@@ -9,7 +9,7 @@
 User Interface Design | Front-End Development | Books | Art | Movies | Music | Writing
 
 * 🌍  I'm based in Matina, Davao City
-* 🖥️  See my portfolio at [einna's portfolio](http://einnajoy.sites)
+* 🖥️  See my portfolio at [einna's portfolio](http://einnajoy.sites/)
 * ✉️  You can contact me at [einnacadagat@gmail.com](mailto:einnacadagat@gmail.com)
 * 🧠  I'm currently learning JavaScript, React JS, Node JS
 * 👥  I'm looking to collaborate on any interesting projects!
