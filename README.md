@@ -13,6 +13,8 @@ User Interface Design | Front-End Development | Books | Art | Movies | Music | W
 * ✉️  You can contact me at [einnacadagat@gmail.com](mailto:einnacadagat@gmail.com)
 * 🧠  I'm currently learning JavaScript, Typescript, & React JS
 * 👥  I'm looking to collaborate on any interesting projects!
+* ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=einnaa)
+
 <div align="center">
 <p align="center">
 
